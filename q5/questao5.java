@@ -1,4 +1,10 @@
 import java.util.Scanner;
+
+import q7.Data;
+import q7.LeitorCsv;
+import q7.No;
+import q7.Veiculo;
+
 import java.io.File;
 
 public class questao5{
